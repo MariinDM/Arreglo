@@ -1,0 +1,7 @@
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\bin\Debug\Arregloss.exe.config
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\bin\Debug\Arregloss.exe
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\bin\Debug\Arregloss.pdb
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\obj\Debug\Arregloss.csproj.AssemblyReference.cache
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\obj\Debug\Arregloss.csproj.CoreCompileInputs.cache
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\obj\Debug\Arregloss.exe
+C:\Users\MarinDM\source\repos\Arregloss\Arregloss\obj\Debug\Arregloss.pdb
